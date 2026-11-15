@@ -1,16 +1,20 @@
-## Hi there 👋
+# 你好，我是 linzi1111 👋
+
+> 欢迎来到我的 GitHub 个人档案！这里记录着我、我的写作和我在做的事。
+
+- 🧑‍💻 我是谁：**（待补充：一句话介绍你自己，例如"一名热爱写作的 XX"）**
+- 🌱 正在学习：**（待补充：正在学的技能/领域）**
+- 📝 写作方向：**（待补充：技术博客 / 随笔 / 评论……见 [writing-style.md](writing-style.md)）**
+- 📮 联系方式：**（可选：邮箱 / 社交账号）**
+
+## 📂 关于这个仓库
+
+| 文件 | 内容 |
+|------|------|
+| [about-me.md](about-me.md) | 关于我的详细介绍 |
+| [writing-style.md](writing-style.md) | 我的写作风格档案 |
 
 <!--
-**linzi1111/linzi1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+小提示：这是一个 profile 仓库（仓库名 = 用户名），
+主页内容会展示在你的 GitHub 个人首页。
 -->
